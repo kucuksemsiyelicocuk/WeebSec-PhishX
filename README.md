@@ -71,4 +71,7 @@ $ python3 PhishX.py
 # SCREENSHOT
 ![SS](https://raw.githubusercontent.com/WeebSec/PhishX/master/img/Screenshot%20from%202018-09-13%2007-13-00.png)
 
+# Extra Info
+The [y/N] Questions are case sensitive so either you answer with "y" or with "N"
+
 
