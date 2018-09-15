@@ -208,6 +208,7 @@ def ADDSMTP():
 
 		with open('./data/smtp.py', 'w') as file:
 		  file.write(filedata)
+		from data.smtp import *
 		input(Green+"[DONE]"+Reset+"  Press Any Key-")
 		Menu()
 
