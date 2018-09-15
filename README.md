@@ -60,6 +60,7 @@ For bug reports or enhancements, please open an [issue](https://github.com/weebs
 # Installation
 
 **make sure your apt-get isn't broken before you run this**
+
 **RUN THIS AS ROOT**
 ```bash
 $ git clone https://github.com/WeebSec/PhishX.git
