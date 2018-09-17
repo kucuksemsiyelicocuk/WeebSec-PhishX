@@ -1,3 +1,8 @@
+if [ $(id -u) -ne 0 ]; then
+	echo "The Installer Must ran as ROOT"
+	exit 1
+fi
+
 reset
 echo ""
 echo "                     #################################"
