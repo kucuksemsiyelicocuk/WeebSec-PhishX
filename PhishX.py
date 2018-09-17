@@ -22,6 +22,16 @@
 
 
 import os
+
+###############################################
+#        PhishX Needs Root Privileges         #
+###############################################
+
+if os.geteuid() != 0:
+    exit("You need to have root privileges to run PhishX")
+
+###############################################
+
 import codecs
 import time
 import subprocess
