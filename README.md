@@ -42,7 +42,7 @@ Please read the LICENSE for the licensing of PhishX.
 |Twitter|1|
 |Instagram|1|
 |Steam|1|
-|LinkedIn|1|
+|LinkedIn|0|
 |Pinterest|1|
 |Quora|1|
 
