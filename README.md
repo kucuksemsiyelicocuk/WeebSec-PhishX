@@ -2,7 +2,7 @@
 
 Copyright 2018 PhishX
 
-![PHISHX](https://img.shields.io/badge/PhishX-v1.0-violet.svg?longCache=true&style=for-the-badge) ![PYTHON3.6](https://img.shields.io/badge/Python-3.6-green.svg?longCache=true&style=for-the-badge)
+![PHISHX](https://img.shields.io/badge/PhishX-v1.1-violet.svg?longCache=true&style=for-the-badge) ![PYTHON3.6](https://img.shields.io/badge/Python-3.6-green.svg?longCache=true&style=for-the-badge)
 
 **PLAY WITH THE HUMAN ~MIND~**
 
