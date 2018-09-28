@@ -42,6 +42,10 @@ Please read the LICENSE for the licensing of PhishX.
 |Twitter|1|
 |Instagram|1|
 |Steam|1|
+|LinkedIn|1|
+|Pinterest|1|
+|Quora|1|
+
 
 
 
@@ -74,7 +78,7 @@ $ python3 PhishX.py
 **Extra Info**
 The [y/N] Questions are case sensitive so either you answer with "y" or with "N"
 # SCREENSHOT
-![SS](https://raw.githubusercontent.com/WeebSec/PhishX/master/img/Screenshot%20from%202018-09-13%2007-13-00.png)
+![SS](https://raw.githubusercontent.com/WeebSec/PhishX/master/img/Screenshot%20from%202018-09-28%2016-39-25.png)
 
 
 
